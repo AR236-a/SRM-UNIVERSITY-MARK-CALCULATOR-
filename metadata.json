@@ -1,0 +1,6 @@
+{
+  "name": "SRM University Smart Marks Calculator",
+  "description": "Calculate final subject marks, SRM grades, grade points, and minimum external examination marks required for every grade target.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
